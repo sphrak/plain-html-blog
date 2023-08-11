@@ -2,28 +2,24 @@ permalink: /:title/
 plugins:
   - jekyll-sitemap
 
-title: sebbas.org
-url: https://sebbas.org
+title: niclaskron.net
+url: https://niclaskron.net
 baseurl: ""
-description: "Personal website of Sebastián"
-author: Sebastián
-twitter: sebbas
-stackoverflow: 1480784/sebbas
-trello: sebbas
-googleplay: sebbas
-vimeo: sebbas
+description: "Personal website of Niclas"
+author: Niclas
+twitter: kankroon
+stackoverflow: 2352843/niclas
 linkedin: 
-bitbucket: sebbas
-goodreads: sebbas
-delicious: sebbas
-hackernews: sebbas
-medium: sebbas
-youtube: UCiU3oTGKL4GDr5xgK_EMjnQ
-500px: sebbas
-irc: sebbas
-ircchannel: blendercoders # a channel that you are frequenting
-username: sebbas
-email: sebbas@sebbas.org
-
-timezone: Europe/Madrid
-google_analytics_tracking_id: UA-39520634-1
+bitbucket:
+goodreads:
+delicious:
+hackernews:
+medium:
+github: sphrak
+youtube:
+500px:
+irc: aresfour
+ircchannel: archlinux # a channel that you are frequenting
+username: aresfour
+email: niclas.kroon@gmail.com
+timezone: Europe/Stockholm
